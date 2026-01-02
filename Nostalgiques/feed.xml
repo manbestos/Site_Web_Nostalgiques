@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F93C5799-3770-43D3-8F5A-0D4D9E1067BA</id>
+ <title>Page list Atom feed</title>
+ <updated>2026-01-02T08:37:27-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:0245CFEB-157A-489F-BF17-ACD961A27206</id>
+  <title>Bienvenue</title>
+  <title xmlns="urn:iweb:">Bienvenue</title>
+  <in-navbar xmlns="urn:iweb:">0245CFEB-157A-489F-BF17-ACD961A27206</in-navbar>
+  <link rel="alternate" href="Bienvenue.html"/>
+  <updated>2026-01-02T08:37:27.001-05:00</updated>
+  <content>Bienvenue</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B3740639-B2FB-40C9-A777-8B6C8B123C83</id>
+  <title>Règles de base</title>
+  <title xmlns="urn:iweb:">Règles de base</title>
+  <in-navbar xmlns="urn:iweb:">B3740639-B2FB-40C9-A777-8B6C8B123C83</in-navbar>
+  <link rel="alternate" href="Regles_de_base.html"/>
+  <updated>2026-01-02T08:37:27.002-05:00</updated>
+  <content>Règles de base</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2E7B06A5-695F-436B-9AB9-AF2AA54212A1</id>
+  <title>Rendez-vous</title>
+  <title xmlns="urn:iweb:">Rendez-vous</title>
+  <in-navbar xmlns="urn:iweb:">2E7B06A5-695F-436B-9AB9-AF2AA54212A1</in-navbar>
+  <link rel="alternate" href="Rendez-vous.html"/>
+  <updated>2026-01-02T08:37:27.003-05:00</updated>
+  <content>Rendez-vous</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7B040215-257E-4483-B267-7E037593812F</id>
+  <title>LES NOSTALGIQUES</title>
+  <title xmlns="urn:iweb:">LES NOSTALGIQUES</title>
+  <in-navbar xmlns="urn:iweb:">7B040215-257E-4483-B267-7E037593812F</in-navbar>
+  <link rel="alternate" href="LES_NOSTALGIQUES.html"/>
+  <updated>2026-01-02T08:37:27.004-05:00</updated>
+  <content>LES NOSTALGIQUES</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A30B66F9-CA18-465A-BF88-97AFED4B30E4</id>
+  <title>SUPERCOUPE</title>
+  <title xmlns="urn:iweb:">SUPERCOUPE</title>
+  <in-navbar xmlns="urn:iweb:">A30B66F9-CA18-465A-BF88-97AFED4B30E4</in-navbar>
+  <link rel="alternate" href="SUPERCOUPE.html"/>
+  <updated>2026-01-02T08:37:27.005-05:00</updated>
+  <content>SUPERCOUPE</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2E35CC16-2291-4325-AAC6-62950FB5707E</id>
+  <title>NHL / Règlements</title>
+  <title xmlns="urn:iweb:">NHL / Règlements</title>
+  <in-navbar xmlns="urn:iweb:">2E35CC16-2291-4325-AAC6-62950FB5707E</in-navbar>
+  <link rel="alternate" href="NHL___Reglements.html"/>
+  <updated>2026-01-02T08:37:27.006-05:00</updated>
+  <content>NHL / Règlements</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B677FABD-A229-4797-A94E-DD245B19CF27</id>
+  <title>NHL / Repêchage</title>
+  <title xmlns="urn:iweb:">NHL / Repêchage</title>
+  <in-navbar xmlns="urn:iweb:">B677FABD-A229-4797-A94E-DD245B19CF27</in-navbar>
+  <link rel="alternate" href="NHL___Repechage.html"/>
+  <updated>2026-01-02T08:37:27.007-05:00</updated>
+  <content>NHL / Repêchage</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:32B0AA74-CE18-449B-A1F1-8F3CE26A91DB</id>
+  <title>NHL / Choix 2025-2026</title>
+  <title xmlns="urn:iweb:">NHL / Choix 2025-2026</title>
+  <in-navbar xmlns="urn:iweb:">32B0AA74-CE18-449B-A1F1-8F3CE26A91DB</in-navbar>
+  <link rel="alternate" href="NHL___Choix_2025-2026.html"/>
+  <updated>2026-01-02T08:37:27.008-05:00</updated>
+  <content>NHL / Choix 2025-2026</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F56DFEC8-40F5-47B9-B0A7-826388683F8F</id>
+  <title>NHL / Honneurs</title>
+  <title xmlns="urn:iweb:">NHL / Honneurs</title>
+  <in-navbar xmlns="urn:iweb:">F56DFEC8-40F5-47B9-B0A7-826388683F8F</in-navbar>
+  <link rel="alternate" href="NHL___Honneurs.html"/>
+  <updated>2026-01-02T08:37:27.009-05:00</updated>
+  <content>NHL / Honneurs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DDD12E12-DCEB-4574-BFED-F6D347D2A457</id>
+  <title>MLB / Règlements</title>
+  <title xmlns="urn:iweb:">MLB / Règlements</title>
+  <in-navbar xmlns="urn:iweb:">DDD12E12-DCEB-4574-BFED-F6D347D2A457</in-navbar>
+  <link rel="alternate" href="MLB___Reglements.html"/>
+  <updated>2026-01-02T08:37:27.010-05:00</updated>
+  <content>MLB / Règlements</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:53721083-E131-46AB-9124-4B67C35C5832</id>
+  <title>MLB / Repêchage</title>
+  <title xmlns="urn:iweb:">MLB / Repêchage</title>
+  <in-navbar xmlns="urn:iweb:">53721083-E131-46AB-9124-4B67C35C5832</in-navbar>
+  <link rel="alternate" href="MLB___Repechage.html"/>
+  <updated>2026-01-02T08:37:27.011-05:00</updated>
+  <content>MLB / Repêchage</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F62CEF58-08AC-472E-8621-D3983E2EA666</id>
+  <title>MLB / Choix 2023</title>
+  <title xmlns="urn:iweb:">MLB / Choix 2023</title>
+  <in-navbar xmlns="urn:iweb:">F62CEF58-08AC-472E-8621-D3983E2EA666</in-navbar>
+  <link rel="alternate" href="MLB___Choix_2023.html"/>
+  <updated>2026-01-02T08:37:27.012-05:00</updated>
+  <content>MLB / Choix 2023</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DF1E246D-F3BC-4288-9291-AE4CBB52BF8A</id>
+  <title>MLB / Honneurs</title>
+  <title xmlns="urn:iweb:">MLB / Honneurs</title>
+  <in-navbar xmlns="urn:iweb:">DF1E246D-F3BC-4288-9291-AE4CBB52BF8A</in-navbar>
+  <link rel="alternate" href="MLB___Honneurs.html"/>
+  <updated>2026-01-02T08:37:27.013-05:00</updated>
+  <content>MLB / Honneurs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:95C01F6B-96D5-4F4C-B3BB-BEE756AE0ECC</id>
+  <title>NFL / Règlements</title>
+  <title xmlns="urn:iweb:">NFL / Règlements</title>
+  <in-navbar xmlns="urn:iweb:">95C01F6B-96D5-4F4C-B3BB-BEE756AE0ECC</in-navbar>
+  <link rel="alternate" href="NFL___Reglements.html"/>
+  <updated>2026-01-02T08:37:27.014-05:00</updated>
+  <content>NFL / Règlements</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F29A787E-1D68-410A-AF05-B96CB90B7A38</id>
+  <title>NFL / Honneurs</title>
+  <title xmlns="urn:iweb:">NFL / Honneurs</title>
+  <in-navbar xmlns="urn:iweb:">F29A787E-1D68-410A-AF05-B96CB90B7A38</in-navbar>
+  <link rel="alternate" href="NFL___Honneurs.html"/>
+  <updated>2026-01-02T08:37:27.015-05:00</updated>
+  <content>NFL / Honneurs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C59419BF-23E7-4AEB-80A1-D56C8715F8D7</id>
+  <title>FIFA / Règlements</title>
+  <title xmlns="urn:iweb:">FIFA / Règlements</title>
+  <in-navbar xmlns="urn:iweb:">C59419BF-23E7-4AEB-80A1-D56C8715F8D7</in-navbar>
+  <link rel="alternate" href="FIFA___Reglements.html"/>
+  <updated>2026-01-02T08:37:27.016-05:00</updated>
+  <content>FIFA / Règlements</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:296E6DB7-362C-40FE-A138-E9B2B070F29E</id>
+  <title>FIFA / Honneurs</title>
+  <title xmlns="urn:iweb:">FIFA / Honneurs</title>
+  <in-navbar xmlns="urn:iweb:">296E6DB7-362C-40FE-A138-E9B2B070F29E</in-navbar>
+  <link rel="alternate" href="FIFA___Honneurs.html"/>
+  <updated>2026-01-02T08:37:27.017-05:00</updated>
+  <content>FIFA / Honneurs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CCBD06F6-9C4F-4C5C-AA35-A138DB287083</id>
+  <title>Golf / Classique Arrache-Mottes</title>
+  <title xmlns="urn:iweb:">Golf / Classique Arrache-Mottes</title>
+  <in-navbar xmlns="urn:iweb:">CCBD06F6-9C4F-4C5C-AA35-A138DB287083</in-navbar>
+  <link rel="alternate" href="Golf___Classique_Arrache-Mottes/Golf___Classique_Arrache-Mottes.html"/>
+  <updated>2026-01-02T08:37:27.018-05:00</updated>
+  <content>Golf / Classique Arrache-Mottes</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DFC9D0C1-CE63-46B2-AEF1-892FDD9A243A</id>
+  <title>Galerie photo 2022-</title>
+  <title xmlns="urn:iweb:">Galerie photo 2022-</title>
+  <in-navbar xmlns="urn:iweb:">DFC9D0C1-CE63-46B2-AEF1-892FDD9A243A</in-navbar>
+  <link rel="alternate" href="Galerie_photo_2022-/Galerie_photo_2022-.html"/>
+  <updated>2026-01-02T08:37:27.019-05:00</updated>
+  <content>Galerie photo 2022-</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CE0FA60E-47AE-46D3-BB82-0637D39B7C73</id>
+  <title>Galerie photo 2018-2021</title>
+  <title xmlns="urn:iweb:">Galerie photo 2018-2021</title>
+  <in-navbar xmlns="urn:iweb:">CE0FA60E-47AE-46D3-BB82-0637D39B7C73</in-navbar>
+  <link rel="alternate" href="Galerie_photo_2018-2021/Galerie_photo_2018-2021.html"/>
+  <updated>2026-01-02T08:37:27.020-05:00</updated>
+  <content>Galerie photo 2018-2021</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:037B19B7-59E9-4D05-9579-1D499347DEC4</id>
+  <title>Galerie photo 2014-2017</title>
+  <title xmlns="urn:iweb:">Galerie photo 2014-2017</title>
+  <in-navbar xmlns="urn:iweb:">037B19B7-59E9-4D05-9579-1D499347DEC4</in-navbar>
+  <link rel="alternate" href="Galerie_photo_2014-2017/Galerie_photo_2014-2017.html"/>
+  <updated>2026-01-02T08:37:27.021-05:00</updated>
+  <content>Galerie photo 2014-2017</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:896D034F-62A0-448D-829C-6AF581AB5124</id>
+  <title>Galerie photo 2003-2013</title>
+  <title xmlns="urn:iweb:">Galerie photo 2003-2013</title>
+  <in-navbar xmlns="urn:iweb:">896D034F-62A0-448D-829C-6AF581AB5124</in-navbar>
+  <link rel="alternate" href="Galerie_photo_2003-2013/Galerie_photo_2003-2013.html"/>
+  <updated>2026-01-02T08:37:27.022-05:00</updated>
+  <content>Galerie photo 2003-2013</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:55DBA074-F1A8-4829-9DE7-C6F333333D68</id>
+  <title>CONCESSIONS DISPONIBLES</title>
+  <title xmlns="urn:iweb:">CONCESSIONS DISPONIBLES</title>
+  <in-navbar xmlns="urn:iweb:">55DBA074-F1A8-4829-9DE7-C6F333333D68</in-navbar>
+  <link rel="alternate" href="CONCESSIONS_DISPONIBLES.html"/>
+  <updated>2026-01-02T08:37:27.023-05:00</updated>
+  <content>CONCESSIONS DISPONIBLES</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:340B52B3-B98A-43E7-BFD0-65F10877119A</id>
+  <title>TEMPLE DE LA RENOMMÉE DES NOSTALGIQUES</title>
+  <title xmlns="urn:iweb:">TEMPLE DE LA RENOMMÉE DES NOSTALGIQUES</title>
+  <in-navbar xmlns="urn:iweb:">340B52B3-B98A-43E7-BFD0-65F10877119A</in-navbar>
+  <link rel="alternate" href="TEMPLE_DE_LA_RENOMMEE_DES_NOSTALGIQUES.html"/>
+  <updated>2026-01-02T08:37:27.024-05:00</updated>
+  <content>TEMPLE DE LA RENOMMÉE DES NOSTALGIQUES</content>
+ </entry>
+</feed>
